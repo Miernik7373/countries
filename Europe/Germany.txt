@@ -1,3 +1,4 @@
 Capital: Berlin
 Language: German
 Population: 82,719,540
+Currency: EUR
